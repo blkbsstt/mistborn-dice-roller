@@ -1,0 +1,31 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1, p {
+  color: #333;
+}
+
+#roll_results {
+  margin-top: 20px;
+  width: 100%;
+  position: relative;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 4px;
+}
+
+#dice_result {
+  width: 100%;
+}
+
+#dice_result img {
+  padding: 4px;
+  height: 100px;
+}
